@@ -1,0 +1,3 @@
+# furusato
+
+Max8
